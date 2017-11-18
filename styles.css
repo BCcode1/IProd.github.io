@@ -1,0 +1,23 @@
+html, body {
+				height: 100%;
+				margin: 0;
+				padding: 0;
+				background-color:#FFFDF4;
+			}
+div.menu_top{
+	background-color:black; 
+	color:white; 
+	padding:10px; 
+	text-align: right;
+}
+div.text_block{
+	background-color:white;
+	padding:20px;
+	margin:5px;
+	max-width:88%;
+	position:absolute;
+	left:6%;
+}
+
+#link_bar a {text-decoration:none;color:#e6e6e6;background-color:none;font-family:Verdana, Geneva, sans-serif;padding:10px}
+#link_bar a:hover {color:white;}
